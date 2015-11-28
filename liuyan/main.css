@@ -87,6 +87,7 @@ body {
       line-height: 26px; }
 
 .weWork {
+  font-weight: bold;
   line-height: 30px;
   font-family: Arial;
   font-size: 20px; }
@@ -100,7 +101,9 @@ body {
   background-color: #55B7C8;
   border: 1px solid #55B7C8;
   border-radius: 3px; }
-
+.blueText{
+  color: #58B0C2;
+}
 .diBu {
   width: 100%;
   background-color: #F9F9FB; }
